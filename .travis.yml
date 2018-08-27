@@ -1,6 +1,16 @@
 language: go
 go:
-  - 1.10
+  - 1.10.x
+  - master
+
+os:
+  - linux
+  - osx
+
+dist: trusty
+sudo: false
+
+install: true
 services:
   - mysql
 before_install:
