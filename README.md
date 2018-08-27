@@ -1,3 +1,7 @@
+# Temp [![Build Status](https://travis-ci.org/up1/temp.svg?branch=master)](https://travis-ci.org/up1/temp)
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/up1/temp)](https://goreportcard.com/report/github.com/up1/temp)
+
 ## Instruction to run
 * Update go to go 1.11
 * Change dir to src/gow-backend/gow
